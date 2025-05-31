@@ -1,0 +1,8 @@
+html
+title
+
+*.pyc
+
+pdfs
+
+__pycache__
